@@ -9,3 +9,6 @@ Use Pigeon Post
 
 Features
 We have a lot of them
+
+Blog
+We'll write about it
