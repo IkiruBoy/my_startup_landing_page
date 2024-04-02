@@ -1,0 +1,35 @@
+commit 61661ef1e61367e10fa3071b03cec25feb825b7a
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:58:40 2024 +0300
+
+    Description of Contacts
+
+commit 0e324c6672b14619b52a1fd8773517c222725dcb
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:56:48 2024 +0300
+
+    Added description of section About Us
+
+commit 72e6379bd729262e59d4a67afab1f42a58a851d4
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:53:58 2024 +0300
+
+    Added description of section Home
+
+commit 72d823a5c57fbbe9759b7bb9b401b290300f207c
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:35:40 2024 +0300
+
+    Added section Contact - third commit
+
+commit 61198f52de9e4ed5f40f03a2f50962df051ecbab
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:34:27 2024 +0300
+
+    Added section About Us - second commit
+
+commit bfdb62e4da3a352a7c3ccabf46512f1081ec23c0
+Author: IkiruBoy <ikiru.boy@gmail.com>
+Date:   Tue Apr 2 13:32:38 2024 +0300
+
+    Added section Home for commit
