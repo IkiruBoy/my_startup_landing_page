@@ -1,6 +1,9 @@
 Home
 Ukraine os our Homeland!
 
+Blog
+We'll write about it. Or not.
+
 About Us
 "We are the champions!"
 
@@ -10,5 +13,5 @@ Use Pigeon Post
 Features
 We have a lot of them
 
-Blog
-We'll write about it
+#Blog
+#We'll write about it. Or not.
