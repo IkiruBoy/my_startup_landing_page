@@ -1,0 +1,20 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+.vscode/
+
+.env
+.env.local
+.env.*.local
+
+logs/
+*.log
+
+*.local.yml
+*.local.yaml
+*.local.toml
+*.local.json
+
